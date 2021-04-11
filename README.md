@@ -6,7 +6,6 @@ This project was generated with [cookiecutter](https://github.com/audreyr/cookie
 
 [![Unix Build Status](https://img.shields.io/travis/com/spatcholla/template-python-demo.svg?label=unix)](https://travis-ci.com/spatcholla/template-python-demo)
 [![Windows Build Status](https://img.shields.io/appveyor/ci/spatcholla/template-python-demo.svg?label=windows)](https://ci.appveyor.com/project/spatcholla/template-python-demo)
-[![Coverage Status](https://img.shields.io/coveralls/spatcholla/template-python-demo.svg)](https://coveralls.io/r/spatcholla/template-python-demo)
 [![Coverage Status](https://coveralls.io/repos/github/Spatcholla/template-python-demo/badge.svg?branch=main)](https://coveralls.io/github/Spatcholla/template-python-demo?branch=main)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/spatcholla/template-python-demo.svg)](https://scrutinizer-ci.com/g/spatcholla/template-python-demo)
 [![PyPI Version](https://img.shields.io/pypi/v/TemplateDemo.svg)](https://pypi.org/project/TemplateDemo)

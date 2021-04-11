@@ -1,7 +1,7 @@
 """A sample GUI."""
 
-from tkinter import Tk, StringVar, BOTH, NSEW
-from tkinter.ttk import Frame, Button, Entry, Label, Separator
+from tkinter import BOTH, NSEW, StringVar, Tk
+from tkinter.ttk import Button, Entry, Frame, Label, Separator
 
 import log
 
